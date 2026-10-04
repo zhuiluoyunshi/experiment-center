@@ -1,0 +1,7 @@
+﻿streamlit==1.65.0
+pandas==2.3.3
+numpy==2.4.6
+matplotlib==3.11.2
+mplfinance
+akshare==1.19.1
+yfinance==1.7.0
